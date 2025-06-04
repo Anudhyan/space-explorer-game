@@ -30,9 +30,4 @@ This entire game was developed through natural language conversations with Amazo
 ```bash
 pip install pygame
 ```
-# Clone the repository
-git clone https://github.com/YOUR_USERNAME/space-explorer-game.git
-cd space-explorer-game
 
-# Run the game
-python space_explorer.py
